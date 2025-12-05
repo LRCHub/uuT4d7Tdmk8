@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "1942",
+  "base_artist": "IO",
+  "createdAt": "2025-12-05T16:13:26.769360Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Let's Rent Bikes From 1942",
+      "artist": "Youth Pictures of Florence Henderson",
+      "has_synced": true,
+      "path": "select/01_Let's_Rent_Bikes_From_1942_Youth_Pictures_of_Florence_Henderson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "1942",
+      "artist": "G-Eazy feat. Yo Gotti & YBN Nahmir",
+      "has_synced": true,
+      "path": "select/02_1942_G-Eazy_feat._Yo_Gotti_&_YBN_Nahmir.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1942 (feat. Yo Gotti & YBN Nahmir)",
+      "artist": "G‐Eazy, Yo Gotti, YBN Nahmir",
+      "has_synced": true,
+      "path": "select/03_1942_(feat._Yo_Gotti_&_YBN_Nahmir)_G‐Eazy,_Yo_Gotti,_YBN_Nahmir.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "1942 (feat. Yo Gotti & YBN Nahmir)",
+      "artist": "G‐Eazy",
+      "has_synced": true,
+      "path": "select/04_1942_(feat._Yo_Gotti_&_YBN_Nahmir)_G‐Eazy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Moonlight Serenade (1942)",
+      "artist": "Glenn Miller",
+      "has_synced": false,
+      "path": "select/05_Moonlight_Serenade_(1942)_Glenn_Miller.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "White Christmas (1942 version) [with John Scott Trotter and His Orchestra and the Ken Darby Singers]",
+      "artist": "Bing Crosby",
+      "has_synced": false,
+      "path": "select/06_White_Christmas_(1942_version)_[with_John_Scott_Trotter_and_His_Orchestra_and_th_Bing_Crosby.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "1942 (feat. Yo Gotti & YBN Nahmir)",
+      "artist": "G-Eazy, Yo Gotti, YBN Nahmir",
+      "has_synced": true,
+      "path": "select/07_1942_(feat._Yo_Gotti_&_YBN_Nahmir)_G-Eazy,_Yo_Gotti,_YBN_Nahmir.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Up Off 1942",
+      "artist": "SoFaygo",
+      "has_synced": true,
+      "path": "select/08_Up_Off_1942_SoFaygo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Silent Night - 1942 Single Version",
+      "artist": "Bing Crosby",
+      "has_synced": false,
+      "path": "select/09_Silent_Night_-_1942_Single_Version_Bing_Crosby.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "1942 Flows",
+      "artist": "Meek Mill",
+      "has_synced": true,
+      "path": "select/10_1942_Flows_Meek_Mill.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "1942 Flows",
+      "artist": "Meek Mill",
+      "has_synced": true,
+      "path": "select/11_1942_Flows_Meek_Mill.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "1942",
+      "artist": "PARTYNEXTDOOR",
+      "has_synced": true,
+      "path": "select/12_1942_PARTYNEXTDOOR.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Love Is a Song [From Bambi (1942)]",
+      "artist": "Donald Novis",
+      "has_synced": true,
+      "path": "select/13_Love_Is_a_Song_[From_Bambi_(1942)]_Donald_Novis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "1942 (feat. Yo Gotti & YBN Nahmir)",
+      "artist": "G-Eazy",
+      "has_synced": true,
+      "path": "select/14_1942_(feat._Yo_Gotti_&_YBN_Nahmir)_G-Eazy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "December 1942",
+      "artist": "Christy Moore",
+      "has_synced": false,
+      "path": "select/15_December_1942_Christy_Moore.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "1942",
+      "artist": "Ant Wan",
+      "has_synced": true,
+      "path": "select/16_1942_Ant_Wan.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rim Jhim Rim Jhim - 1942: A Love Story - Kumar Sanu & Kavita Krishnamurthy",
+      "artist": "Likable Songs",
+      "has_synced": true,
+      "path": "select/17_Rim_Jhim_Rim_Jhim_-_1942__A_Love_Story_-_Kumar_Sanu_&_Kavita_Krishnamurthy_Likable_Songs.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Battlefield 1942 Loading Theme",
+      "artist": "Joel Eriksson",
+      "has_synced": false,
+      "path": "select/18_Battlefield_1942_Loading_Theme_Joel_Eriksson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1942 (feat. YZERR)",
+      "artist": "I O",
+      "has_synced": false,
+      "path": "select/pl_01_1942_(feat._YZERR)_I_O.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "1942 (feat. MonyHorse & CFN Malik) [Remix]",
+      "artist": "I O",
+      "has_synced": false,
+      "path": "select/pl_02_1942_(feat._MonyHorse_&_CFN_Malik)_[Remix]_I_O.txt"
+    }
+  ]
+}
